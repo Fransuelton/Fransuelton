@@ -1,5 +1,5 @@
 # Hello, World! 👋🌍
-#### Olá meu nome é Elton Tenho 17 anos e sou da cidade de Jucurutu RN. Atualmente Estou no 3º Ano do Ensino médio. E faço Curso Técnico em Redes de Computadores na Universidade Federal do Rio Grande do Norte.
+#### Meu nome é Elton Tenho 17 anos e sou da cidade de Jucurutu RN. Atualmente Estou no 3º Ano do Ensino médio. E faço Curso Técnico em Redes de Computadores na Universidade Federal do Rio Grande do Norte.
 
 ## Redes Sociais:
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elton_batista19/)
