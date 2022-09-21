@@ -1,4 +1,4 @@
-## Hello, World! 👋🌍
+# Hello, World! 👋🌍
 #### Olá meu nome é Elton Tenho 17 anos e sou da cidade de Jucurutu RN. Atualmente Estou no 3º Ano do Ensino médio. E faço Curso Técnico em Redes de Computadores na Universidade Federal do Rio Grande do Norte.
 
 ## Redes Sociais:
