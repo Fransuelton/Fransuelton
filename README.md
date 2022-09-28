@@ -1,7 +1,7 @@
 # Hello, World! 👋🌍
 
-![Fransuelton GitHub stats](https://github-readme-stats.vercel.app/api?username=Fransuelton&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fransuelton&theme=radical)](https://github.com/Fransuelton/github-readme-stats)
+![Fransuelton GitHub stats](https://github-readme-stats.vercel.app/api?username=Fransuelton&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fransuelton&theme=dark)](https://github.com/Fransuelton/github-readme-stats)
 
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elton_batista19/)
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fransuelton-francisco-2512a3223/)
