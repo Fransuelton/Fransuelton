@@ -1,7 +1,5 @@
 # Hello, World! 👋🌍
 
-![Fransuelton GitHub stats](https://github-readme-stats.vercel.app/api?username=Fransuelton&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fransuelton&theme=dark)](https://github.com/Fransuelton/github-readme-stats)
 
 ## Redes Sociais:
 
