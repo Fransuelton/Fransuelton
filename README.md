@@ -4,10 +4,8 @@
 <li>🙋‍♂️ | Meu nome é Fransuelton, tenho 17 anos e moro em Jucurutu-RN.
 <br>
 <br>
-<li>💻 | Atualmente faço curso técnico de T.I com enfasê em Redes de Computadores no Instituto Metrópole Digital IMD/UFRN CERES em Caicó-RN. E sou aluno do curso de programação Front-end Dev Quest do Canal Dev em Dobro.
+<li>💻 | Atualmente faço curso técnico de T.I com enfasê em Redes de Computadores no Instituto Metrópole Digital IMD/UFRN CERES em Caicó-RN. É sou aluno do curso de programação Front-end Dev Quest - Dev em Dobro.
 <br>
-<br>
-<li>🚀 | Estou em busca de me tornar um Desenvolvedor Front-end.
 </div>
 <br>
 <div align=center><img src="./src/pixel-jeff-matrix-s.gif"></div>
@@ -31,7 +29,7 @@
 
 <br>
 
-<h2 align="center">Meus Principais Projetos ☕</h2>
+<h2 align="center">Meus Principais Projetos 🚀</h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fransuelton&repo=formulario-de-cadastro&theme=tokyonight)](https://github.com/Fransuelton/formulario-de-cadastro)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fransuelton&repo=calculadora-de-media&theme=tokyonight)](https://github.com/Fransuelton/calculadora-de-media)
