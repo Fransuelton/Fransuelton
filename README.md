@@ -1,10 +1,15 @@
 <h1 align=center>Bem vindo(a) ao meu perfil 👋🌍</h1>
 
 <h2 align=center>Sobre mim 🧑‍💻</h2>
-
+<div class="sobre-mim"><b>
 <li>🙋‍♂️ | Meu nome é Fransuelton, tenho 17 anos e moro em Jucurutu-RN.
+<br>
+<br>
 <li>💻 | Atualmente faço curso técnico de T.I com enfasê em Redes de Computadores no Instituto Metrópole Digital IMD/UFRN CERES em Caicó-RN. E sou aluno do curso de programação Front-end Dev Quest do Canal Dev em Dobro.
+<br>
+<br>
 <li>🚀 | Estou em busca de me tornar um Desenvolvedor Front-end.
+</div>
 <br>
 <div align=center><img src="./src/pixel-jeff-matrix-s.gif"></div>
   <h2 align=center>Status Github ✅</h2>
