@@ -11,7 +11,7 @@
 <li>🚀 | Estou em busca de me tornar um Desenvolvedor Front-end.
 </div>
 <br>
-<div align=center><img src="./src/pixel-jeff-matrix-s.gif"></div>
+<div align=center><img src="./src/pixel-jeff-matrix-s.gif" width=700></div>
   <h2 align=center>Status Github ✅</h2>
   <div align=center style="display: inline_block">
   <a href="https://github.com/fransuelton">
