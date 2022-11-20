@@ -1,18 +1,19 @@
-# Bem vindo(a) ao meu perfil 👋🌍
+<h1 align=center>Bem vindo(a) ao meu perfil 👋🌍</h1>
 
 <h2 align=center>Sobre mim 🧑‍💻</h2>
-<div>
-<li>🙋‍♂️ | Meu nome é Fransuelton, tenho 17 anos e moro em Jucurutu - RN.
-<li>💻 | Atualmente faço curso técnico de T.I com enfasê em Redes de Computadores. no Instituto Metrópole Digital IMD/UFRN.
+<div class="sobre-mim">
+<li>🙋‍♂️ | Meu nome é Fransuelton, tenho 17 anos e moro em Jucurutu-RN.
+<li>💻 | Atualmente faço curso técnico de T.I com enfasê em Redes de Computadores no Instituto Metrópole Digital IMD/UFRN CERES em Caicó-RN. E sou aluno do curso de programação Front-end Dev Quest do Canal Dev em Dobro.
 <li>🚀 | Estou em busca de me tornar um Desenvolvedor Front-end.
 </div>
+<div align=center><img src="./src/pixel-jeff-matrix-s.gif" width=400></div>
 <br>
-<img src="./src/pixel-jeff-matrix-s.gif">
-<br>
-<br>
+  <h2 align=center>Status Github ✅</h2>
+  <div align=center style="display: inline_block">
   <a href="https://github.com/fransuelton">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fransuelton&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fransuelton&layout=compact&langs_count=6&theme=tokyonight"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fransuelton&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fransuelton&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
 <br>
   
 <h2 align="center">Tecnologias que uso no meu dia a dia 🛠️</h2>
