@@ -1,7 +1,7 @@
 <h1 align=center>Bem vindo(a) ao meu perfil 👋🌍</h1>
 
-<div align=center><img src="./src/pixel-jeff-matrix-s.gif" width=800></div>
-<br>
+<div align=center><img src="./src/pixel-jeff-matrix-s.gif" width=800 height=300></div>
+
 <h2 align=center>Sobre mim 🧑‍💻</h2>
 <div class="sobre-mim"><b>
 <li>🙋‍♂️ | Meu nome é Fransuelton, tenho 17 anos e moro em Jucurutu-RN.
