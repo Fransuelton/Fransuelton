@@ -9,7 +9,7 @@
 <br>
 </div>
 <br>
-<div align=center><img src="./src/pixel-jeff-matrix-s.gif"></div>
+<div align=center><img src="./src/pixel-jeff-matrix-s.gif" width=800 height=250></div>
 
 <div align=center> 
   <a href="https://instagram.com/elton_batista19" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -39,13 +39,5 @@
 </div>
 
 <br>
-
-<h2 align="center">Meus Principais Projetos 🚀</h2>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fransuelton&repo=formulario-de-cadastro&theme=tokyonight)](https://github.com/Fransuelton/formulario-de-cadastro)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fransuelton&repo=calculadora-de-media&theme=tokyonight)](https://github.com/Fransuelton/calculadora-de-media)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fransuelton&repo=pagina-www&theme=tokyonight)](https://github.com/Fransuelton/pagina-www)
-
- <br>
 
 ![Snake animation](https://github.com/fransuelton/fransuelton/blob/output/github-contribution-grid-snake.svg)
