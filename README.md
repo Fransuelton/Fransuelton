@@ -6,7 +6,7 @@
 <li>💻 | Atualmente faço curso técnico de T.I com enfasê em Redes de Computadores no Instituto Metrópole Digital IMD/UFRN CERES em Caicó-RN. E sou aluno do curso de programação Front-end Dev Quest do Canal Dev em Dobro.
 <li>🚀 | Estou em busca de me tornar um Desenvolvedor Front-end.
 </div>
-<div align=center><img src="./src/pixel-jeff-matrix-s.gif" width=400></div>
+<div align=center><img src="./src/pixel-jeff-matrix-s.gif"></div>
 <br>
   <h2 align=center>Status Github ✅</h2>
   <div align=center style="display: inline_block">
