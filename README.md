@@ -5,7 +5,7 @@
 <li>🙋‍♂️ | Meu nome é Fransuelton, tenho 17 anos e moro em Jucurutu-RN.
 <br>
 <br>
-<li>💻 | Atualmente faço curso técnico de T.I com enfasê em Redes de Computadores no Instituto Metrópole Digital IMD/UFRN CERES em Caicó-RN. É sou aluno do curso de programação Front-end Dev Quest - Dev em Dobro.
+<li>💻 | Atualmente faço curso técnico de T.I com enfasê em Redes de Computadores no Instituto Metrópole Digital IMD/UFRN CERES em Caicó-RN. É sou aluno do curso de Desenvolvimento web Front-end Dev Quest - Dev em Dobro.
 <br>
 </div>
 <br>
