@@ -1,6 +1,6 @@
 <h1 align="center">Bem vindo(a) ao meu perfil 👋🌍</h1>
 
-<h2>Sobre mim 🧑‍💻</h2>
+<h2 align="center">Sobre mim 🧑‍💻</h2>
 
   <li>🙋‍♂️ | Meu nome é Fransuelton, tenho 17 anos.
 <br>
@@ -13,6 +13,7 @@
 <br>
 
 <div align="center">
+<br>
 <img src="./src/pixel-jeff-matrix-s.gif" width=800 height=250>
 
   <a href="https://instagram.com/elton_batista19" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
