@@ -12,7 +12,7 @@
 
 <br>
 
-<main align="center">
+<div align="center">
 <img src="./src/pixel-jeff-matrix-s.gif" width=800 height=250>
 
   <a href="https://instagram.com/elton_batista19" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -37,5 +37,6 @@
   <img align="center" alt="git" width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 <br>
+</div>
 
 ![Snake animation](https://github.com/fransuelton/fransuelton/blob/output/github-contribution-grid-snake.svg)
