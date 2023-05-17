@@ -1,7 +1,5 @@
 <h1 align="center">Bem vindo(a) ao meu perfil 👋🌍</h1>
 
-<h2 align="center">Sobre mim 🧑‍💻</h2>
-
   <li>🙋‍♂️ | Meu nome é Fransuelton, tenho 17 anos.
 <br>
 <br>
