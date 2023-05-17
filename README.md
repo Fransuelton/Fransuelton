@@ -6,12 +6,16 @@
   <li>🙋‍♂️ | Meu nome é Fransuelton, tenho 17 anos.
 <br>
 <br>
-  <li>💻 | Estou fazendo curso técnico de T.I com enfasê em Redes de Computadores no Instituto Metrópole Digital IMD - UFRN. É sou aluno do curso de Desenvolvimento Web Front-End Dev Quest - Dev em Dobro.
+  <li>💻 | Estou fazendo curso técnico de T.I com enfasê em Redes de Computadores no IMD/UFRN. é sou aluno do curso de Desenvolvimento Web Front-End Dev Quest - Dev em Dobro.
+<br>
+<br>
+  <li> 📚 | Atualmente estou estudando a tríade da programação Front-End: HTML, CSS e JAVASCRIPT.
 </div>
 
 <br>
 <div align=center><img src="./src/pixel-jeff-matrix-s.gif" width=800 height=250></div>
 
+<h2 align=center>Redes sociais 📸</h2>
 <div align=center> 
   <a href="https://instagram.com/elton_batista19" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:elton6103@gmail.com">
