@@ -1,10 +1,10 @@
 <h1 align="center">Bem vindo(a) ao meu perfil 👋🌍</h1>
 
 <strong>
-  <li>🙋‍♂️ | Meu nome é Fransuelton, tenho 17 anos.
+  <li>🙋‍♂️ | Olá, Meu nome é Fransuelton.
 <br>
 <br>
-  <li>💻 | Estou fazendo curso técnico de T.I com enfasê em Redes de Computadores no IMD/UFRN. é sou aluno do curso de Desenvolvimento Web Front-End Dev Quest - Dev em Dobro.
+  <li>💻 | Estou fazendo curso técnico de T.I com enfasê em Redes de Computadores no IMD/UFRN. E sou aluno do curso de Desenvolvimento Web Front-End Dev Quest - Dev em Dobro.
 <br>
 <br>
   <li>📚 | Atualmente estou estudando a tríade da programação Front-End: HTML, CSS e JAVASCRIPT.
