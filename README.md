@@ -4,7 +4,7 @@
   <li>🙋‍♂️ | Olá, Meu nome é Fransuelton.
 <br>
 <br>
-  <li>💻 | Estou fazendo curso técnico de T.I com enfasê em Redes de Computadores no IMD/UFRN. E sou aluno do curso de Desenvolvimento Web Front-End Dev Quest - Dev em Dobro.
+  <li>💻 | Estou fazendo curso técnico de T.I com enfasê em Redes de Computadores no IMD/UFRN. E sou aluno do curso de Desenvolvimento Web Front-End DevQuest - Dev em Dobro.
 <br>
 <br>
   <li>📚 | Atualmente estou estudando a tríade da programação Front-End: HTML, CSS e JAVASCRIPT.
