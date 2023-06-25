@@ -4,30 +4,30 @@
 
 </div>
 
-## ✨ About Me:
+## ✨ Sobre mim:
 
-🧑🏽‍💻 | Hello, my name is Fransuelton and I am 18 years old. 
+🧑🏽‍💻 | Olá, meu nome é Fransuelton e tenho 18 anos.
 
-📝 | I do technical course of Computer Networks at IMD / UFRN and I am a student of the course of Web Development Fullstack DevQuest - Dev in Dobro. 
+📝 | Faço curso técnico de Redes de Computadores no IMD/UFRN e sou aluno do curso de Desenvolvimento Web Fullstack DevQuest – Dev em Dobro.
 
-🌱 | At the moment, I am focused on studying the triad of Front-End programming: HTML, CSS and JavaScript.
+🌱 | No momento, estou focado em estudar a tríade da programação Front-End: HTML, CSS e JavaScript.
 
-🚀 | I want to improve my knowledge in JavaScript, then learn React and other tools to subsequently start my journey as a FullStack developer.
+🚀 | Meu objetivo atualmente é adquirir um bom conhecimento na programação Front-end e, no futuro, me tornar um desenvolvedor Fullstack.
 
-## 🌐 Networks:
+## 🌐 Redes:
 
-<a href="https://instagram.com/elton_batista19" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/elton_batista19" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:elton6103@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=&logo=gmail&logoColor=white" target="_blank" ></a>
-<a href="https://www.linkedin.com/in/fransuelton/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://steamcommunity.com/id/Fransuelton/"><img src="https://img.shields.io/badge/Steam-000000?style=&logo=steam&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" target="_blank" ></a>
+<a href="https://www.linkedin.com/in/fransuelton/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://steamcommunity.com/id/Fransuelton/"><img src="https://img.shields.io/badge/Steam-000000?style=plastic&logo=steam&logoColor=white"></a>
 
-## 📊 GitHub Stats:
+## 📊 Status Github:
 <div align="center">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=fransuelton&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fransuelton&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-## 💻 Technologies:
+## 💻 Tecnologias:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=&logo=css3&logoColor=white)
@@ -37,7 +37,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=&logo=redux&logoColor=white)
 
-## ⚙️ Tools
+## ⚙️ Ferramentas:
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=&logo=visual%20studio%20code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=&logo=figma&logoColor=white)
