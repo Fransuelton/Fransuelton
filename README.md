@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&width=435&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&width=435&lines=Welcome+to+my+profile!+👋🌍)](https://git.io/typing-svg)
 ![](src/readme.gif)
 </div>
 
@@ -23,8 +23,9 @@
 <a href="https://steamcommunity.com/id/Fransuelton/"><img src="https://img.shields.io/badge/Steam-000000?style=&logo=steam&logoColor=white"></a>
 
 ## 📊 GitHub Stats:
-
+<div align="center">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=fransuelton&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fransuelton&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
 ## 💻 Technologies:
 
