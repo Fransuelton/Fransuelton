@@ -1,6 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!+👋🌍)](https://git.io/typing-svg)
+<div align="center">
 
-![](src/readme.gif)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&width=435&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
+
+</div>
 
 ## ✨ About Me:
 
@@ -12,6 +14,12 @@
 
 🚀 | I want to improve my knowledge in JavaScript, then learn React and other tools to subsequently start my journey as a FullStack developer.
 
+<div align="center">
+
+![](src/readme.gif)
+
+</div>
+
 ## 🌐 Networks:
 
 <a href="https://instagram.com/elton_batista19" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=&logo=instagram&logoColor=white" target="_blank"></a>
@@ -22,8 +30,7 @@
 
 ## 📊 GitHub Stats:
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=fransuelton&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fransuelton&layout=compact&langs_count=7&theme=radical"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=fransuelton&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fransuelton&layout=compact&langs_count=7&theme=radical"/>
 
 ## 💻 Technologies:
 
@@ -44,9 +51,6 @@
 ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=&logo=node.js&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-323330?style=&logo=Jest&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=&logo=github&logoColor=white)
-
-
-<br>
 
 ![Snake animation](https://github.com/fransuelton/fransuelton/blob/output/github-contribution-grid-snake.svg)
 
