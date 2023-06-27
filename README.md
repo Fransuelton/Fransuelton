@@ -42,10 +42,15 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=&logo=visual%20studio%20code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=&logo=git&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=&logo=notion&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=&logo=mysql&logoColor=white)
 ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=&logo=node.js&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-323330?style=&logo=Jest&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=black&style=)
+![VirutalBox](https://img.shields.io/badge/-VirtualBox-183A61?logo=virtualbox&logoColor=white&style=)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=&logo=github&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=&logo=Canva&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=&logo=notion&logoColor=white)
+
 
 ![Snake animation](https://github.com/fransuelton/fransuelton/blob/output/github-contribution-grid-snake.svg)
 
