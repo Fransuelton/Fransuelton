@@ -6,7 +6,7 @@
 
 ## ✨ Sobre mim:
 
-🧑🏽‍💻 | Olá, meu nome é Fransuelton, tenho 18 anos. Sou desenvolvedor front-end e entusiasta da segurança da informação. é Atualmente, estou cursando Redes de Computadores no IMD/UFRN.
+🧑🏽‍💻 | Olá, meu nome é Fransuelton, tenho 18 anos. Sou desenvolvedor front-end e entusiasta da segurança da informação. Atualmente, estou cursando Redes de Computadores no IMD/UFRN.
 
 🌱 | No momento, estou focado em estudar a tríade da programação front-end: HTML, CSS e JavaScript.
 
@@ -14,10 +14,14 @@
 
 ## 🌐 Redes:
 
-<a href="https://instagram.com/elton_batista19" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/elton_batista19" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=&logo=instagram&logoColor=white" target="_blank">
+</a>
 <a href = "mailto:elton6103@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=&logo=gmail&logoColor=white" target="_blank" ></a>
-<a href="https://www.linkedin.com/in/fransuelton/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/fransuelton/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=&logo=linkedin&logoColor=white" target="_blank">
+</a>
+<a href="https://steamcommunity.com/id/Fransuelton/"><img src="https://img.shields.io/badge/Steam-000000?style=&logo=steam&logoColor=white">
+</a>
 
 ## 💻 Tech Stack:
 
@@ -40,7 +44,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=&logo=Canva&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=&logo=notion&logoColor=white)
 
-## 📊 Status Github:
+## 📊 Status GitHub:
 <div align="center">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=fransuelton&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fransuelton&layout=compact&langs_count=7&theme=radical"/>
 </div>
