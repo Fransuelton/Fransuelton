@@ -12,6 +12,8 @@
 
 🚀 | Meu objetivo no futuro e me tornar um desenvolvedor Fullstack.
 
+![](https://komarev.com/ghpvc/?username=Fransuelton&color=blueviolet)
+
 ## 🌐 Redes:
 
 <a href="https://instagram.com/elton_batista19" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=&logo=instagram&logoColor=white" target="_blank">
@@ -47,6 +49,8 @@
 ## 📊 Status GitHub:
 <div align="center">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=fransuelton&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fransuelton&layout=compact&langs_count=7&theme=radical"/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fransuelton&theme=radical)](https://git.io/streak-stats)
 </div>
 
 ![Snake animation](https://github.com/fransuelton/fransuelton/blob/output/github-contribution-grid-snake.svg)
