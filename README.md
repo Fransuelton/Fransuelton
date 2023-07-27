@@ -47,10 +47,14 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=&logo=notion&logoColor=white)
 
 ## 📊 Status GitHub:
+
 <div align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=fransuelton&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fransuelton&layout=compact&langs_count=7&theme=radical"/>
+   <a href="https://github.com/Fransuelton">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fransuelton&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fransuelton&layout=compact&langs_count=6&theme=radical"/>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fransuelton&theme=radical)](https://git.io/streak-stats)
+
 </div>
 
 ![Snake animation](https://github.com/fransuelton/fransuelton/blob/output/github-contribution-grid-snake.svg)
