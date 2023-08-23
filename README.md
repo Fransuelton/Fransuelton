@@ -26,7 +26,6 @@ Olá! Meu nome e Fransuelton, um entusiasta da tecnologia apaixonado por desenvo
 <a href="https://www.linkedin.com/in/fransuelton/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
 
-
 ## Tech Stack 💻
 
 Aqui estão algumas das tecnologias e ferramentas que eu uso no meu dia a dia ⬇️:
@@ -62,20 +61,24 @@ Aqui estão algumas das tecnologias e ferramentas que eu uso no meu dia a dia �
 ![canva](https://img.shields.io/badge/-canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge)
 ![notion](https://img.shields.io/badge/-notion-000000?logo=notion&logoColor=white&style=for-the-badge)
 
-
 </details>
 
 ### GitHub Stats ⚡
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fransuelton&theme=radical)](https://git.io/streak-stats)
 <a href="https://github.com/Fransuelton">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fransuelton&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fransuelton&layout=compact&langs_count=6&theme=radical"/>
 
-![](https://komarev.com/ghpvc/?username=Fransuelton&style=for-the-badge&label=VISUALIZAÇÕES+NO+PERFIL)
-
 </div>
 
+### GitHub Streak 🔥
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fransuelton&theme=radical)](https://git.io/streak-stats)
+
 ![Snake animation](https://github.com/fransuelton/fransuelton/blob/output/github-contribution-grid-snake-dark.svg)
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=Fransuelton&style=for-the-badge&label=VISUALIZAÇÕES+NO+PERFIL)
+</div>
