@@ -34,7 +34,7 @@ Aqui estão algumas das tecnologias e ferramentas que eu uso no meu dia a dia �
 <summary><b>Desenvolvimento FrontEnd 🎨</b></summary>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,redux,styledcomponents)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,redux,tailwind,styledcomponents)](https://skillicons.dev)
 </details>
 
 <details open>
