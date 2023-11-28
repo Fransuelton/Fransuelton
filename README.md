@@ -13,7 +13,7 @@ Olá! Meu nome e Fransuelton, um entusiasta da tecnologia apaixonado por desenvo
 * 🎓 Estou cursando **Redes de Computadores** pelo IMD/UFRN.
 * 📚 Faço cursos de desenvolvimento web como **DevQuest - Dev em Dobro** e **FullStack JavaScript da OneBitCode**
 
-### Entre em contato comigo 📫
+Entre em contato comigo ⤵️:
 
 <a href="https://instagram.com/elton_batista19" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 </a>
@@ -28,27 +28,30 @@ Olá! Meu nome e Fransuelton, um entusiasta da tecnologia apaixonado por desenvo
 
 ## Tech Stack 💻
 
-Aqui estão algumas das tecnologias e ferramentas que eu uso no meu dia a dia ⬇️:
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+Aqui estão algumas das tecnologias e ferramentas que eu uso no meu dia a dia:
 
 <details open>
 <summary><b>Desenvolvimento FrontEnd 🎨</b></summary>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,redux,tailwind,styledcomponents)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=jquery,vue,styledcomponents,tailwind)](https://skillicons.dev)
 </details>
 
 <details open>
 <summary><b>Desenvolvimento BackEnd ⚙️</b></summary>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,nodejs,java)](https://skillicons.dev)
 </details>
 
 <details open>
 <summary><b>Ferramentas 🔧</b></summary>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,figma,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,figma,md,vite)](https://skillicons.dev)
 </details>
 
 <details>
@@ -73,8 +76,12 @@ Aqui estão algumas das tecnologias e ferramentas que eu uso no meu dia a dia �
 
 </div>
 
+<div align="center">
+
 ### GitHub Streak 🔥
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fransuelton&theme=radical)](https://git.io/streak-stats)
+
+</div>
 
 ![Snake animation](https://github.com/fransuelton/fransuelton/blob/output/github-contribution-grid-snake-dark.svg)
 
