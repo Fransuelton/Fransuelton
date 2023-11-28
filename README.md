@@ -78,9 +78,10 @@ Aqui estão algumas das tecnologias e ferramentas que eu uso no meu dia a dia:
 
 </div>
 
+### GitHub Streak 🔥
+
 <div align="center">
 
-### GitHub Streak 🔥
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fransuelton&theme=radical)](https://git.io/streak-stats)
 
 </div>
