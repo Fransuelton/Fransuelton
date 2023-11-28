@@ -2,22 +2,24 @@
 
 ![Gif de apresentação com meu nome](./src/readme.gif)
 
+Olá! Meu nome é Fransuelton, um entusiasta da tecnologia apaixonado por desenvolvimento web, cibersegurança e tudo realcionado ao mundo digital. Inicie meus estudos na programação em 2022 é desde então, venho sempre aprimorando minhas habilidades é também aprendendo diversas tecnologias, bibliotecas e frameworks para desenvolver aplicações com as melhores experiências e soluções.
+
 </div>
 
-### Sobre mim ✨
-
-Olá! Meu nome e Fransuelton, um entusiasta da tecnologia apaixonado por desenvolvimento web e tudo realcionado ao mundo digital.
+##
 
 * 🌱 Atualmente estou estudando **React**.
 * 🚀 Meu Objetivo no futuro e me tornar um **Desenvolvedor FullStack**.
-* 🎓 Estou cursando **Redes de Computadores** pelo IMD/UFRN.
+* 🎓 Estou cursando **Redes de Computadores** pelo **IMD/UFRN**!
+* 💬 Me pergunte sobre **JavaScript.**
+* 🔍 Veja meus pojetos do [**Frontend Mentor**](https://www.frontendmentor.io/profile/Fransuelton)!
 * 📚 Faço cursos de desenvolvimento web como **DevQuest - Dev em Dobro** e **FullStack JavaScript da OneBitCode**
 
-Entre em contato comigo ⤵️:
+### Conecte-se Comigo 📫:
 
 <a href="https://instagram.com/elton_batista19" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 </a>
-<a href = "mailto:elton6103@gmail.com">
+<a href = "mailto:fransuelton.dev@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a>
 <a href = "https://www.frontendmentor.io/profile/Fransuelton">
 <img src="https://img.shields.io/badge/-frontendmentor-3F54A3?logo=frontendmentor&logoColor=white&style=for-the-badge" target="_blank" ></a>
