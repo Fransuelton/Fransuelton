@@ -12,7 +12,7 @@ Olá! Meu nome é Fransuelton, um entusiasta da tecnologia apaixonado por desenv
 * 🚀 Meu Objetivo no futuro e me tornar um **Desenvolvedor FullStack**.
 * 🎓 Estou cursando **Redes de Computadores** pelo **IMD/UFRN**!
 * 💬 Me pergunte sobre **JavaScript.**
-* 🔍 Veja meus pojetos do [**Frontend Mentor**](https://www.frontendmentor.io/profile/Fransuelton)!
+* 🔍 Veja meus pojetos do [**Frontend Mentor!**](https://www.frontendmentor.io/profile/Fransuelton)
 * 📚 Faço cursos de desenvolvimento web como **DevQuest - Dev em Dobro** e **FullStack JavaScript da OneBitCode**
 
 ### Conecte-se Comigo 📫:
@@ -30,9 +30,9 @@ Olá! Meu nome é Fransuelton, um entusiasta da tecnologia apaixonado por desenv
 
 ## Tech Stack 💻
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
 Aqui estão algumas das tecnologias e ferramentas que eu uso no meu dia a dia:
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <details open>
 <summary><b>Desenvolvimento FrontEnd 🎨</b></summary>
