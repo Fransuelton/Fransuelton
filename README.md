@@ -12,7 +12,7 @@ Olá! Meu nome é Fransuelton, um entusiasta da tecnologia apaixonado por desenv
 * 🚀 Meu Objetivo no futuro e me tornar um **Desenvolvedor FullStack**.
 * 🎓 Estou cursando **Redes de Computadores** pelo **IMD/UFRN**!
 * 💬 Me pergunte sobre **JavaScript.**
-* 🔍 Veja meus pojetos do [**Frontend Mentor!**](https://www.frontendmentor.io/profile/Fransuelton)
+* 🔍 Veja meus projetos do [**Frontend Mentor**](https://www.frontendmentor.io/profile/Fransuelton)!
 * 📚 Faço cursos de desenvolvimento web como **DevQuest - Dev em Dobro** e **FullStack JavaScript da OneBitCode**
 
 ### Conecte-se Comigo 📫:
