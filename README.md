@@ -2,7 +2,7 @@
 
 ![Gif de apresentação com meu nome](./src/readme.gif)
 
-Olá! Meu nome é Fransuelton, um entusiasta da tecnologia apaixonado por desenvolvimento web, cibersegurança e tudo realcionado ao mundo digital. Inicie meus estudos na programação em 2022 é desde então, venho sempre aprimorando minhas habilidades é também aprendendo diversas tecnologias, bibliotecas e frameworks para desenvolver aplicações com as melhores experiências e soluções.
+Olá! Meu nome é Fransuelton, um entusiasta da tecnologia apaixonado por desenvolvimento web, cibersegurança e tudo relacionado ao mundo digital. Iniciei meus estudos na programação em 2022 e desde então, venho sempre aprimorando minhas habilidades e também aprendendo diversas tecnologias, bibliotecas e frameworks para desenvolver aplicações com as melhores experiências e soluções.
 
 </div>
 
@@ -24,6 +24,8 @@ Olá! Meu nome é Fransuelton, um entusiasta da tecnologia apaixonado por desenv
 <a href = "https://www.frontendmentor.io/profile/Fransuelton">
 <img src="https://img.shields.io/badge/-frontendmentor-3F54A3?logo=frontendmentor&logoColor=white&style=for-the-badge" target="_blank" ></a>
 <a href="https://steamcommunity.com/id/Fransuelton/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
+</a>
+<a href="https://discord.com/users/537751809331167243" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
 </a>
 <a href="https://www.linkedin.com/in/fransuelton/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
