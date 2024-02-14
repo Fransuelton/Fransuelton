@@ -6,6 +6,8 @@ Olá! Meu nome é Fransuelton, um entusiasta da tecnologia apaixonado por desenv
 
 </div>
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="300px" width="300px" align="right">
+
 ##
 
 * 🌱 Atualmente estou estudando **React**.
@@ -13,9 +15,8 @@ Olá! Meu nome é Fransuelton, um entusiasta da tecnologia apaixonado por desenv
 * 🎓 Estou cursando **Redes de Computadores** pelo **IMD/UFRN**!
 * 💬 Me pergunte sobre **JavaScript.**
 * 🔍 Veja meus projetos do [**Frontend Mentor**](https://www.frontendmentor.io/profile/Fransuelton)!
-* 📚 Faço cursos de desenvolvimento web como **DevQuest - Dev em Dobro** e **FullStack JavaScript da OneBitCode**
 
-### Conecte-se Comigo 📫:
+## Conecte-se Comigo 📫:
 
 <a href="https://instagram.com/elton_batista19" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 </a>
@@ -32,30 +33,27 @@ Olá! Meu nome é Fransuelton, um entusiasta da tecnologia apaixonado por desenv
 
 ## Tech Stack 💻
 
-Aqui estão algumas das tecnologias e ferramentas que eu uso no meu dia a dia:
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+Aqui estão as tecnologias e ferramentas que eu uso no meu dia a dia:
 
 <details open>
 <summary><b>Desenvolvimento FrontEnd 🎨</b></summary>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=jquery,vue,styledcomponents,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,bootstrap,jquery,vue,styledcomponents,tailwind,jest,vitest)](https://skillicons.dev)
 </details>
 
 <details open>
 <summary><b>Desenvolvimento BackEnd ⚙️</b></summary>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,nodejs,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,nodejs,java,prisma,)](https://skillicons.dev)
 </details>
 
 <details open>
 <summary><b>Ferramentas 🔧</b></summary>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,figma,md,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,figma,md,vite,docker,androidstudio)](https://skillicons.dev)
 </details>
 
 <details>
