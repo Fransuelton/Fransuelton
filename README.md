@@ -8,7 +8,7 @@
 
 Olá! Meu nome é Fransuelton, um entusiasta da tecnologia apaixonado por desenvolvimento web, cibersegurança e tudo relacionado ao mundo digital. Iniciei meus estudos na programação em 2022 e desde então, venho sempre aprimorando minhas habilidades e também aprendendo diversas tecnologias, bibliotecas e frameworks para desenvolver aplicações com as melhores experiências e soluções.
 
-<hr>
+<br>
 
 * 🌱 Atualmente estou estudando **React**.
 * 🚀 Meu Objetivo no futuro e me tornar um **Desenvolvedor FullStack**.
@@ -31,14 +31,14 @@ Olá! Meu nome é Fransuelton, um entusiasta da tecnologia apaixonado por desenv
 
 ## Tech Stack 💻
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 <details open>
 <summary><b>Desenvolvimento FrontEnd 🎨</b></summary>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,bootstrap,jquery,vue,styledcomponents,tailwind,jest,vitest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,bootstrap,jquery,vue,styledcomponents,tailwind,jest,vitest&perline=7)](https://skillicons.dev)
 </details>
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <details open>
 <summary><b>Desenvolvimento BackEnd ⚙️</b></summary>
