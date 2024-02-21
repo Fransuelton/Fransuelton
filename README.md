@@ -2,13 +2,13 @@
 
 ![Gif de apresentação com meu nome](./src/readme.gif)
 
-Olá! Meu nome é Fransuelton, um entusiasta da tecnologia apaixonado por desenvolvimento web, cibersegurança e tudo relacionado ao mundo digital. Iniciei meus estudos na programação em 2022 e desde então, venho sempre aprimorando minhas habilidades e também aprendendo diversas tecnologias, bibliotecas e frameworks para desenvolver aplicações com as melhores experiências e soluções.
-
 </div>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="300px" width="300px" align="right">
+## Sobre mim ✨
 
-##
+Olá! Meu nome é Fransuelton, um entusiasta da tecnologia apaixonado por desenvolvimento web, cibersegurança e tudo relacionado ao mundo digital. Iniciei meus estudos na programação em 2022 e desde então, venho sempre aprimorando minhas habilidades e também aprendendo diversas tecnologias, bibliotecas e frameworks para desenvolver aplicações com as melhores experiências e soluções.
+
+<hr>
 
 * 🌱 Atualmente estou estudando **React**.
 * 🚀 Meu Objetivo no futuro e me tornar um **Desenvolvedor FullStack**.
@@ -16,14 +16,12 @@ Olá! Meu nome é Fransuelton, um entusiasta da tecnologia apaixonado por desenv
 * 💬 Me pergunte sobre **JavaScript.**
 * 🔍 Veja meus projetos do [**Frontend Mentor**](https://www.frontendmentor.io/profile/Fransuelton)!
 
-## Conecte-se Comigo 📫:
+## Conecte-se Comigo 📫
 
 <a href="https://instagram.com/elton_batista19" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 </a>
 <a href = "mailto:fransuelton.dev@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a>
-<a href = "https://www.frontendmentor.io/profile/Fransuelton">
-<img src="https://img.shields.io/badge/-frontendmentor-3F54A3?logo=frontendmentor&logoColor=white&style=for-the-badge" target="_blank" ></a>
 <a href="https://steamcommunity.com/id/Fransuelton/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
 </a>
 <a href="https://discord.com/users/537751809331167243" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
@@ -33,8 +31,6 @@ Olá! Meu nome é Fransuelton, um entusiasta da tecnologia apaixonado por desenv
 
 ## Tech Stack 💻
 
-Aqui estão as tecnologias e ferramentas que eu uso no meu dia a dia:
-
 <details open>
 <summary><b>Desenvolvimento FrontEnd 🎨</b></summary>
 <br>
@@ -42,18 +38,20 @@ Aqui estão as tecnologias e ferramentas que eu uso no meu dia a dia:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,bootstrap,jquery,vue,styledcomponents,tailwind,jest,vitest)](https://skillicons.dev)
 </details>
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 <details open>
 <summary><b>Desenvolvimento BackEnd ⚙️</b></summary>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,nodejs,java,prisma,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,nodejs,java,prisma,express,mongodb,firebase)](https://skillicons.dev)
 </details>
 
 <details open>
 <summary><b>Ferramentas 🔧</b></summary>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,figma,md,vite,docker,androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,figma,md,vite,docker,androidstudio,vercel)](https://skillicons.dev)
 </details>
 
 <details>
