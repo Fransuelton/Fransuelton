@@ -16,12 +16,8 @@ Olá! Meu nome é Fransuelton, um entusiasta da tecnologia apaixonado por desenv
 * 💬 Me pergunte sobre **JavaScript.**
 * 🔍 Veja meus projetos do [**Frontend Mentor**](https://www.frontendmentor.io/profile/Fransuelton)!
 
-<br>
-
 ### Conecte-se Comigo 📫
 
-<a href="https://instagram.com/elton_batista19" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-</a>
 <a href = "mailto:fransuelton.dev@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a>
 <a href="https://steamcommunity.com/id/Fransuelton/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
