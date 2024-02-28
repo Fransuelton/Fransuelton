@@ -10,13 +10,15 @@ Olá! Meu nome é Fransuelton, um entusiasta da tecnologia apaixonado por desenv
 
 <br>
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
+
 * 🌱 Atualmente estou estudando **React**.
 * 🚀 Meu Objetivo no futuro e me tornar um **Desenvolvedor FullStack**.
 * 🎓 Estou cursando **Redes de Computadores** pelo **IMD/UFRN**!
 * 💬 Me pergunte sobre **JavaScript.**
 * 🔍 Veja meus projetos do [**Frontend Mentor**](https://www.frontendmentor.io/profile/Fransuelton)!
 
-## Conecte-se Comigo 📫
+### Conecte-se Comigo 📫
 
 <a href="https://instagram.com/elton_batista19" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 </a>
@@ -31,13 +33,11 @@ Olá! Meu nome é Fransuelton, um entusiasta da tecnologia apaixonado por desenv
 
 ## Tech Stack 💻
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
-
 <details open>
 <summary><b>Desenvolvimento FrontEnd 🎨</b></summary>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,bootstrap,jquery,vue,styledcomponents,tailwind,jest,vitest&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,bootstrap,jquery,vue,styledcomponents,tailwind,jest,vitest)](https://skillicons.dev)
 </details>
 
 <details open>
@@ -70,7 +70,6 @@ Olá! Meu nome é Fransuelton, um entusiasta da tecnologia apaixonado por desenv
 
 <div align="center">
 
-<a href="https://github.com/Fransuelton">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fransuelton&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fransuelton&layout=compact&langs_count=6&theme=radical"/>
 
