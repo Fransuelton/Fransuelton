@@ -8,8 +8,6 @@
 
 Olá! Meu nome é Fransuelton, um entusiasta da tecnologia apaixonado por desenvolvimento web, cibersegurança e tudo relacionado ao mundo digital. Iniciei meus estudos na programação em 2022 e desde então, venho sempre aprimorando minhas habilidades e também aprendendo diversas tecnologias, bibliotecas e frameworks para desenvolver aplicações com as melhores experiências e soluções.
 
-<br>
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
 * 🌱 Atualmente estou estudando **React**.
@@ -17,6 +15,8 @@ Olá! Meu nome é Fransuelton, um entusiasta da tecnologia apaixonado por desenv
 * 🎓 Estou cursando **Redes de Computadores** pelo **IMD/UFRN**!
 * 💬 Me pergunte sobre **JavaScript.**
 * 🔍 Veja meus projetos do [**Frontend Mentor**](https://www.frontendmentor.io/profile/Fransuelton)!
+
+<br>
 
 ### Conecte-se Comigo 📫
 
