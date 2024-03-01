@@ -6,13 +6,14 @@
 
 ## Sobre mim ✨
 
-Olá! Meu nome é Fransuelton, um entusiasta da tecnologia apaixonado por desenvolvimento web, cibersegurança e tudo relacionado ao mundo digital. Iniciei meus estudos na programação em 2022 e desde então, venho sempre aprimorando minhas habilidades e também aprendendo diversas tecnologias, bibliotecas e frameworks para desenvolver aplicações com as melhores experiências e soluções.
+Desenvolvedor de Software desde 2022, possuo ampla experiência em desenvolvimento web Front-End. Estou constantemente aprimorando minhas habilidades e aprendendo novas tecnologias, bibliotecas e frameworks para criar aplicações com as melhores experiências e soluções. Além disso, sou entusiasta de cibersegurança e nas horas vagas gosto de jogar games, ler livros e assistir filmes e séries.
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
 * 🌱 Atualmente estou estudando **React**.
 * 🚀 Meu Objetivo no futuro e me tornar um **Desenvolvedor FullStack**.
-* 🎓 Estou cursando **Redes de Computadores** pelo **IMD/UFRN**!
+* 🧑‍💻 Sou Técnico em **Redes de Computadores** pelo **IMD/UFRN**.
+* 🎓 Estou cursando **Engenharia de Software** na **Estácio**.
 * 💬 Me pergunte sobre **JavaScript.**
 * 🔍 Veja meus projetos do [**Frontend Mentor**](https://www.frontendmentor.io/profile/Fransuelton)!
 
