@@ -4,7 +4,7 @@
 
 </div>
 
-## Sobre mim ✨
+## Hello World! 👋✨
 
 Desenvolvedor de Software desde 2022, possuo ampla experiência em desenvolvimento web Front-End. Estou constantemente aprimorando minhas habilidades e aprendendo novas tecnologias, bibliotecas e frameworks para criar aplicações com as melhores experiências e soluções. Além disso, sou entusiasta de cibersegurança e nas horas vagas gosto de jogar games, ler livros e assistir filmes e séries.
 
@@ -17,15 +17,19 @@ Desenvolvedor de Software desde 2022, possuo ampla experiência em desenvolvimen
 * 💬 Me pergunte sobre **JavaScript.**
 * 🔍 Veja meus projetos do [**Frontend Mentor**](https://www.frontendmentor.io/profile/Fransuelton)!
 
-### Conecte-se Comigo 📫
+<br>
 
 <a href = "mailto:fransuelton.dev@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a>
-<a href="https://steamcommunity.com/id/Fransuelton/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" target="_blank" >
 </a>
-<a href="https://discord.com/users/537751809331167243" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+<a href="https://steamcommunity.com/id/Fransuelton/">
+<img src="https://img.shields.io/badge/Steam-000000?style=plastic&logo=steam&logoColor=white">
 </a>
-<a href="https://www.linkedin.com/in/fransuelton/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+<a href="https://discord.com/users/537751809331167243" target="_blank">
+<img src="https://img.shields.io/badge/Discord-7289DA?style=plastic&logo=discord&logoColor=white" target="_blank">
+</a>
+<a href="https://www.linkedin.com/in/fransuelton/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" target="_blank">
 </a>
 
 ## Tech Stack 💻
