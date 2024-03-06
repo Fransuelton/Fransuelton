@@ -14,6 +14,7 @@ Desenvolvedor de Software desde 2022, possuo ampla experiência em desenvolvimen
 * 🚀 Meu Objetivo no futuro e me tornar um **Desenvolvedor FullStack**.
 * 🧑‍💻 Sou Técnico em **Redes de Computadores** pelo **IMD/UFRN**.
 * 🎓 Estou cursando **Engenharia de Software** na **Estácio**.
+* 🏆 Embaixador DIO Campus Expert!
 * 💬 Me pergunte sobre **JavaScript**.
 * 🔍 Veja meus projetos do [**Frontend Mentor**](https://www.frontendmentor.io/profile/Fransuelton)!
 
