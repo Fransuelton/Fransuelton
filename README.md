@@ -46,7 +46,7 @@ Desenvolvedor de Software desde 2022, possuo ampla experiência em desenvolvimen
 <summary><b>Desenvolvimento BackEnd ⚙️</b></summary>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,nodejs,java,prisma,express,mongodb,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,nodejs,java,prisma,express,mongodb,firebase,py)](https://skillicons.dev)
 </details>
 
 <details open>
