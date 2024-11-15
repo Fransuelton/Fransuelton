@@ -91,3 +91,15 @@ Desenvolvedor de Software desde 2022, possuo ampla experiência em desenvolvimen
 
 ![](https://komarev.com/ghpvc/?username=Fransuelton&style=for-the-badge&label=VISUALIZAÇÕES+NO+PERFIL)
 </div>
+
+<div align="center">
+
+<details>
+<summary><b>#30NitesOfCode</b></summary>
+<br>
+
+[Check out my progress!](https://www.codedex.io/@Fransuelton/30-nites-of-code)  
+![@Fransuelton #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Fransuelton)
+
+</details>
+</div>
