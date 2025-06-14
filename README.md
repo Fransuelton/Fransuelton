@@ -1,6 +1,6 @@
 <div align="center">
 
-![Gif de apresentação com meu nome](./src/readme.gif)
+![Gif de apresentação com meu nome](./.github/readme/readme.gif)
 
 </div>
 
@@ -13,60 +13,30 @@ Desenvolvedor de Software desde 2022, possuo ampla experiência em desenvolvimen
 * 🌱 Atualmente estou estudando **React**.
 * 🚀 Meu Objetivo no futuro e me tornar um **Desenvolvedor FullStack**.
 * 🧑‍💻 Sou Técnico em **Redes de Computadores** pelo **IMD/UFRN**.
-* 🎓 Estou cursando **Engenharia de Software** na **Estácio**.
+* 🎓 Estou cursando **Engenharia de Software**.
 * 🏆 Embaixador DIO Campus Expert
 * 💬 Me pergunte sobre **JavaScript**.
 * 🔍 Veja meus projetos do [**Frontend Mentor**](https://www.frontendmentor.io/profile/Fransuelton)!
+* 🧠 Repositórios em destaque abaixo!
 
 <br>
 
-<a href = "mailto:fransuelton.dev@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" target="_blank" >
-</a>
-<a href="https://steamcommunity.com/id/Fransuelton/">
-<img src="https://img.shields.io/badge/Steam-000000?style=plastic&logo=steam&logoColor=white">
-</a>
-<a href="https://discord.com/users/537751809331167243" target="_blank">
-<img src="https://img.shields.io/badge/Discord-7289DA?style=plastic&logo=discord&logoColor=white" target="_blank">
-</a>
-<a href="https://www.linkedin.com/in/fransuelton/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" target="_blank">
-</a>
+## 🚀 Tech Stack
 
-## Tech Stack 💻
+### 🧑‍💻 Principais Tecnologias
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs)](https://skillicons.dev)
 
-<details open>
-<summary><b>Desenvolvimento FrontEnd 🎨</b></summary>
-<br>
+### 🎨 Frontend 
+[![My Skills](https://skillicons.dev/icons?i=html,css,angular,vue,jquery,tailwind,styledcomponents)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,bootstrap,jquery,vue,styledcomponents,tailwind,jest,vitest)](https://skillicons.dev)
-</details>
+### ⚙️ Backend
+[![My Skills](https://skillicons.dev/icons?i=express,php,laravel,java,py)](https://skillicons.dev)
 
-<details open>
-<summary><b>Desenvolvimento BackEnd ⚙️</b></summary>
-<br>
+### 🗄️ Banco de Dados
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=c,php,mysql,postgres,nodejs,java,prisma,express,mongodb,firebase,py)](https://skillicons.dev)
-</details>
-
-<details open>
-<summary><b>Ferramentas 🔧</b></summary>
-<br>
-
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,figma,md,vite,docker,androidstudio,vercel)](https://skillicons.dev)
-</details>
-
-<details>
-<summary><b>Outros 🔍</b></summary>
-<br>
-
-![scala](https://img.shields.io/badge/-scala-DC322F?logo=scala&logoColor=white&style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/-wireshark-1679A7?logo=wireshark&logoColor=white&style=for-the-badge)
-![VirtualBox](https://img.shields.io/badge/-virtualbox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge)
-![canva](https://img.shields.io/badge/-canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge)
-![notion](https://img.shields.io/badge/-notion-000000?logo=notion&logoColor=white&style=for-the-badge)
-
-</details>
+### ⚒️ Ferramentas e DevOps
+[![My Skills](https://skillicons.dev/icons?i=git,vscode,docker,vercel,figma,vite)](https://skillicons.dev)
 
 ### GitHub Stats ⚡
 
@@ -90,16 +60,4 @@ Desenvolvedor de Software desde 2022, possuo ampla experiência em desenvolvimen
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=Fransuelton&style=for-the-badge&label=VISUALIZAÇÕES+NO+PERFIL)
-</div>
-
-<div align="center">
-
-<details>
-<summary><b>#30NitesOfCode</b></summary>
-<br>
-
-[Check out my progress!](https://www.codedex.io/@Fransuelton/30-nites-of-code)  
-![@Fransuelton #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Fransuelton)
-
-</details>
 </div>
