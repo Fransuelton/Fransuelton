@@ -19,9 +19,9 @@ Atualmente, estudo para me tornar um **Desenvolvedor Full Stack**, aprimorando m
 * 💬 Me pergunte sobre **JavaScript**
 * 🧠 Confira meus projetos no [**Frontend Mentor**](https://www.frontendmentor.io/profile/Fransuelton)
 
-📫 Entre em contato ou veja meus links principais em: [🌐 fransuelton.dev/links](https://fransuelton.dev/links)
+📬 Vamos conversar? Acesse todos os meus links em um só lugar:  
+👉 [🌐 fransuelton.dev/links](https://fransuelton.dev/links)
 
-<br> 
 📌 Veja abaixo meus principais repositórios e estatísticas do GitHub!
 
 ## 🚀 Tech Stack
