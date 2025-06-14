@@ -4,22 +4,24 @@
 
 </div>
 
-## Hello World! 👋✨
+## 👋 Hello World!
 
-Desenvolvedor de Software desde 2022, possuo ampla experiência em desenvolvimento web Front-End. Estou constantemente aprimorando minhas habilidades e aprendendo novas tecnologias, bibliotecas e frameworks para criar aplicações com as melhores experiências e soluções. Além disso, sou entusiasta de cibersegurança e nas horas vagas gosto de jogar games, ler livros e assistir filmes e séries.
+Sou Desenvolvedor de Software com foco em desenvolvimento **Web Front-End**, atuando desde 2022. Tenho experiência com tecnologias como **JavaScript**, **TypeScript**, **React** e **Node.js**, e estou sempre evoluindo para entregar aplicações funcionais e de alta qualidade.
+
+Atualmente, estudo para me tornar um **Desenvolvedor Full Stack**, aprimorando minhas habilidades em **Back-End, Banco de Dados** e boas práticas de arquitetura de software.
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
-* 🌱 Atualmente estou estudando **React**.
-* 🚀 Meu Objetivo no futuro e me tornar um **Desenvolvedor FullStack**.
-* 🧑‍💻 Sou Técnico em **Redes de Computadores** pelo **IMD/UFRN**.
-* 🎓 Estou cursando **Engenharia de Software**.
-* 🏆 Embaixador DIO Campus Expert
-* 💬 Me pergunte sobre **JavaScript**.
-* 🔍 Veja meus projetos do [**Frontend Mentor**](https://www.frontendmentor.io/profile/Fransuelton)!
-* 🧠 Repositórios em destaque abaixo!
+* 🎓 Cursando **Engenharia de Software**
+* 🧑‍💻 Técnico em **Redes de Computadores** (IMD/UFRN)
+* 🌱 Estudando **React**
+* 🏆 Embaixador **DIO Campus Expert**
+* 💬 Me pergunte sobre **JavaScript**
+* 🧠 Confira meus projetos no [**Frontend Mentor**](https://www.frontendmentor.io/profile/Fransuelton)
 
 <br>
+
+📌 Veja abaixo meus principais repositórios e estatísticas do GitHub!
 
 ## 🚀 Tech Stack
 
@@ -38,16 +40,14 @@ Desenvolvedor de Software desde 2022, possuo ampla experiência em desenvolvimen
 ### ⚒️ Ferramentas e DevOps
 [![My Skills](https://skillicons.dev/icons?i=git,vscode,docker,vercel,figma,vite)](https://skillicons.dev)
 
-### GitHub Stats ⚡
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fransuelton&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fransuelton&layout=compact&langs_count=6&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fransuelton&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Fransuelton GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fransuelton&layout=compact&langs_count=6&theme=radical" alt="Top Langs"/>
 
 </div>
-
-### GitHub Streak 🔥
 
 <div align="center">
 
