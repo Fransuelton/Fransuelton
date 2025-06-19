@@ -30,7 +30,7 @@ Atualmente, estudo para me tornar um **Desenvolvedor Full Stack**, aprimorando m
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs)](https://skillicons.dev)
 
 ### 🎨 Frontend 
-[![My Skills](https://skillicons.dev/icons?i=html,css,angular,vue,jquery,tailwind,styledcomponents)](https://skillicons.dev)
+[![My Skills Frontend](https://skillicons.dev/icons?i=html,css,angular,vue,jquery,tailwind,styledcomponents)](https://skillicons.dev)
 
 ### ⚙️ Backend
 [![My Skills](https://skillicons.dev/icons?i=express,php,laravel,java,py)](https://skillicons.dev)
