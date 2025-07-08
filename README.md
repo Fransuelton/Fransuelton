@@ -14,7 +14,7 @@ Atualmente, estudo para me tornar um **Desenvolvedor Full Stack**, aprimorando m
 
 * 🎓 Cursando **Engenharia de Software**
 * 🧑‍💻 Técnico em **Redes de Computadores** (IMD/UFRN)
-* 🌱 Estudando **React**
+* 🌱 Estudando **Node.js**
 * 🏆 Embaixador **DIO Campus Expert**
 * 💬 Me pergunte sobre **JavaScript**
 * 🧠 Confira meus projetos no [**Frontend Mentor**](https://www.frontendmentor.io/profile/Fransuelton)
