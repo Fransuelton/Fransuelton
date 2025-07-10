@@ -48,8 +48,8 @@ I'm a **Backend-focused Fullstack Developer** with **2+ years of experience**, b
 
 <div align="center">
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Fransuelton&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Fransuelton GitHub Stats"/>
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fransuelton&layout=compact&langs_count=6&theme=radical" alt="Top Langs"/>
+<img height="195px" src="https://github-readme-stats.vercel.app/api?username=Fransuelton&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Fransuelton GitHub Stats"/>
+<img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fransuelton&layout=compact&langs_count=6&theme=radical" alt="Top Langs"/>
 
 </div>
 
