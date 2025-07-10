@@ -6,47 +6,50 @@
 
 ## 👋 Hello World!
 
-Sou Desenvolvedor de Software com foco em desenvolvimento **Web Front-End**, atuando desde 2022. Tenho experiência com tecnologias como **JavaScript**, **TypeScript**, **React** e **Node.js**, e estou sempre evoluindo para entregar aplicações funcionais e de alta qualidade.
-
-Atualmente, estudo para me tornar um **Desenvolvedor Full Stack**, aprimorando minhas habilidades em **Back-End, Banco de Dados** e boas práticas de arquitetura de software.
+I'm a **Backend-focused Fullstack Developer** with **2+ years of experience**, building scalable and high-quality web applications. I have experience with technologies such as **JavaScript**, **React**, **Node.js**, **MySQL**, and **RESTful API development** and I'm always evolving to write clean, maintainable code.
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
-* 🎓 Cursando **Engenharia de Software**
-* 🧑‍💻 Técnico em **Redes de Computadores** (IMD/UFRN)
-* 🌱 Estudando **Node.js**
-* 🏆 Embaixador **DIO Campus Expert**
-* 💬 Me pergunte sobre **JavaScript**
-* 🧠 Confira meus projetos no [**Frontend Mentor**](https://www.frontendmentor.io/profile/Fransuelton)
+- 🎓 **Software Engineering** student
+- 🧑‍💻 Technician in **Computer Networks** (IMD/UFRN)
+- 🌱 Currently studying **Node.js**
+- 🏆 **DIO Campus Expert** Ambassador
+- 💬 Ask me about **JavaScript**
+- 🧠 Check out my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/Fransuelton)
 
-📬 Vamos conversar? Acesse todos os meus links em um só lugar:  
+📬 Want to connect? Find all my links in one place:  
 👉 [🌐 fransuelton.dev/links](https://fransuelton.dev/links)
 
-📌 Veja abaixo meus principais repositórios e estatísticas do GitHub!
+📌 Scroll down to see my top repositories pinned and GitHub stats!
 
 ## 🚀 Tech Stack
 
-### 🧑‍💻 Principais Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs)](https://skillicons.dev)
+### 🔥 Core Technologies
 
-### 🎨 Frontend 
-[![My Skills Frontend](https://skillicons.dev/icons?i=html,css,angular,vue,jquery,tailwind,styledcomponents)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,mysql)](https://skillicons.dev)
+
+### 🎨 Frontend
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,ts,angular,vue,jquery,tailwind,styledcomponents)](https://skillicons.dev)
 
 ### ⚙️ Backend
+
 [![My Skills](https://skillicons.dev/icons?i=express,php,laravel,java,py)](https://skillicons.dev)
 
-### 🗄️ Banco de Dados
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase)](https://skillicons.dev)
+### 🗄️ Databases
 
-### ⚒️ Ferramentas e DevOps
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,firebase)](https://skillicons.dev)
+
+### ⚒️ Tools & DevOps
+
 [![My Skills](https://skillicons.dev/icons?i=git,vscode,docker,vercel,figma,vite)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fransuelton&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Fransuelton GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fransuelton&layout=compact&langs_count=6&theme=radical" alt="Top Langs"/>
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Fransuelton&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Fransuelton GitHub Stats"/>
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fransuelton&layout=compact&langs_count=6&theme=radical" alt="Top Langs"/>
 
 </div>
 
@@ -60,5 +63,6 @@ Atualmente, estudo para me tornar um **Desenvolvedor Full Stack**, aprimorando m
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=Fransuelton&style=for-the-badge&label=VISUALIZAÇÕES+NO+PERFIL)
+![](https://komarev.com/ghpvc/?username=Fransuelton&style=for-the-badge&label=Profile+Views)
+
 </div>
