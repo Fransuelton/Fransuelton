@@ -34,7 +34,7 @@ I'm a **Backend-focused Fullstack Developer** with **2+ years of experience**, b
 
 ### ⚙️ Backend
 
-[![My Skills](https://skillicons.dev/icons?i=express,php,laravel,java,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,php,laravel,java,c,cpp,py)](https://skillicons.dev)
 
 ### 🗄️ Databases
 
