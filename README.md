@@ -22,6 +22,12 @@ I'm a **Backend-focused Fullstack Developer** with **2+ years of experience**, b
 
 📌 Scroll down to see my top repositories pinned and GitHub stats!
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fransuelton/Fransuelton/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fransuelton/Fransuelton/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Fransuelton/Fransuelton/output/pacman-contribution-graph.svg">
+</picture>
+
 ## 🚀 Tech Stack
 
 ### 🔥 Core Technologies
@@ -48,8 +54,8 @@ I'm a **Backend-focused Fullstack Developer** with **2+ years of experience**, b
 
 <div align="center">
 
-<img height="195px" src="https://github-readme-stats.vercel.app/api?username=Fransuelton&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Fransuelton GitHub Stats"/>
-<img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fransuelton&layout=compact&langs_count=6&theme=radical" alt="Top Langs"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fransuelton&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Fransuelton GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fransuelton&layout=compact&langs_count=6&theme=radical" alt="Top Langs"/>
 
 </div>
 
@@ -58,8 +64,6 @@ I'm a **Backend-focused Fullstack Developer** with **2+ years of experience**, b
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fransuelton&theme=radical)](https://git.io/streak-stats)
 
 </div>
-
-![Snake animation](https://github.com/fransuelton/fransuelton/blob/output/github-contribution-grid-snake-dark.svg)
 
 <div align="center">
 
