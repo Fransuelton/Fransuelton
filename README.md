@@ -6,13 +6,12 @@
 
 ## 👋 Hello World!
 
-I'm a **Backend-focused Fullstack Developer** with **2+ years of experience**, building scalable and high-quality web applications. I have experience with technologies such as **JavaScript**, **React**, **Node.js**, **MySQL**, and **RESTful API development** and I'm always evolving to write clean, maintainable code.
+I'm a **Backend-focused Fullstack Developer** with **3+ years of experience**, building scalable and high-quality web applications. I have experience with technologies such as **JavaScript**, **React**, **Node.js**, **MySQL**, and **RESTful API development** and I'm always evolving to write clean, maintainable code.
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
 - 🎓 **Software Engineering** student
-- 🧑‍💻 Technician in **Computer Networks** (IMD/UFRN)
-- 🌱 Currently studying **Node.js**
+- 🌱 Currently studying **Liquid**
 - 🏆 **DIO Campus Expert** Ambassador
 - 💬 Ask me about **JavaScript**
 - 🧠 Check out my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/Fransuelton)
